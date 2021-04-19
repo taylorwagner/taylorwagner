@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Taylor Wagner!
 
 <!--
 **taylorwagner/taylorwagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I use each day as an opportunity to improve, create, and thrive. As a natural problem solver and planning extraordinaire, I’m naturally looking for ways to enhance already established programs, or even blaze a new trail to turn a new thought into something tangible and useful! As a technology-centered educator/coach, I have used a wide variety of web-based services to meet and enhance the individual learning needs of my students and athletes. I have had a passion for technology for as long as I can remember and can first-hand attest to how powerful it is in creating your own narrative. I’ve taken the initiative to learn the necessary technical skills for implementing and creating applications to better serve the community at large. I am a junior-level software engineer seeking full-time employment opportunities in front-end, back-end, or full-stack web development.
+
+Programming Languages and Related Applications/Libraries: Javascript, DOM Manipulation, Git, GitHub, Bootstrap, Ajax, jQuery, Python, Flask, SQL, PostgreSQL, Node, Express, React, and Redux.
+
+Skills and Operating Principles: Full-Stack Web Development, Detail-Oriented, Life-long Learner, Relationship Building and Management, English Literacy, Collaborative, Google Educator Level 1 Certification
+
+Things that Energize Me: Strategic Problem-Solving, Creativity, Efficiency, Planning/Organization, Serving Others, Mediation 
