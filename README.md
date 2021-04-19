@@ -30,9 +30,9 @@ Things that Energize Me: Strategic Problem-Solving, Creativity, Efficiency, Plan
 ---
 ---
 
-## &#x1f4c8; My GitHub Stats
+## &#x1f4c8; My GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorwagner&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorwagner&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylorwagner&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
